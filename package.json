@@ -1,18 +1,18 @@
 {
-  "name": "homebridge-mi-aqara",
-  "version": "0.8.0", 
+  "name": "homebridge-xiaomi",
+  "version": "0.9.0",
   "description": "XiaoMi Aqara plugins for HomeBridge(https://github.com/nfarina/homebridge).",
   "license": "GPL",
   "keywords": [
     "homebridge-plugin"
   ],
-  "author": "hang.yin",
+  "author": "mateutek",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YinHangCode/homebridge-mi-aqara"
+    "url": "https://github.com/mateutek/homebridge-xiaomi-gateway"
   },
   "bugs": {
-    "url": "https://github.com/YinHangCode/homebridge-mi-aqara/issues"
+    "url": "https://github.com/mateutek/homebridge-xiaomi-gateway/issues"
   },
   "engines": {
     "node": ">=0.12.0",
